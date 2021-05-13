@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37437" started-at="2020-06-23T21:40:04Z" finished-at="2020-06-23T21:40:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37437" started-at="2020-06-23T21:40:04Z" finished-at="2020-06-23T21:40:42Z">
+      <class name="com.mt.testcases.LoginTest">
+        <test-method status="PASS" signature="verifysign()[pri:0, instance:com.mt.testcases.LoginTest@6cc4c815]" name="verifysign" duration-ms="37372" started-at="2020-06-23T21:40:04Z" finished-at="2020-06-23T21:40:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifysign -->
+      </class> <!-- com.mt.testcases.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
